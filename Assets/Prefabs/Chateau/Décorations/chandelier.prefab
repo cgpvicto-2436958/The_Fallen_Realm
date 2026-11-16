@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6653718336475806869}
   - component: {fileID: 464201177054116609}
   - component: {fileID: 4364245420751988997}
+  - component: {fileID: 9129179013396387224}
   m_Layer: 0
   m_Name: chandelier
   m_TagString: Untagged
@@ -86,3 +87,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &9129179013396387224
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7710889435754466971}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.1469543, y: 5.8518844, z: 1.8219994}
+  m_Center: {x: -0.00003054738, y: 2.900512, z: 0.0026281483}
